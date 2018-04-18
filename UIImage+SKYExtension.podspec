@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                     UIImage的分类，可通过颜色生成图片以及图片的一些相关处理
                    DESC
 
-  s.homepage     = "https://github.com/BlueTopsky/UIImage+SKYExtension"
+  s.homepage     = "https://github.com/BlueTopsky/UIImage-SKYExtension"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/BlueTopsky/UIImage+SKYExtension.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/BlueTopsky/UIImage-SKYExtension.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
